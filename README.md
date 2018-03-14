@@ -1,3 +1,4 @@
 <h1><font face="Times New Roman">IbidunO</h1>
 This is Ibidun's GitHub website.
-The game projects that will be present will be "The Miraculous Kitchen", "Piano of Death", and "Two Worlds".
+All the game projects will be on the website. In the meantime, a game story has been created.
+<a href="http://textadventures.co.uk/games/view/vionpyd3wegemfjrobileq/clouds-in-the-skystory">Clouds in the Sky</a>
